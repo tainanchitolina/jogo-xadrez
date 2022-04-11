@@ -1,0 +1,15 @@
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.exe
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.deps.json
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.runtimeconfig.json
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.dll
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\bin\Debug\net6.0\xadrez-console.pdb
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.AssemblyReference.cache
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfoInputs.cache
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.AssemblyInfo.cs
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.csproj.CoreCompileInputs.cache
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.dll
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\refint\xadrez-console.dll
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.pdb
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\xadrez-console.genruntimeconfig.cache
+D:\APRENDENDO C# Curso Celebre\Curso Udemy C#\jogo de xadrez\xadrez-console\xadrez-console\obj\Debug\net6.0\ref\xadrez-console.dll
